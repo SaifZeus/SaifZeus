@@ -15,6 +15,9 @@ Hi, I’m Saif Wael, an 18-year-old student from Egypt studying Business Informa
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
+
+
+
 ---
 [![](https://visitcount.itsvg.in/api?id=SaifZeus&icon=0&color=0)](https://visitcount.itsvg.in)
 
