@@ -14,10 +14,6 @@ Hi, I’m Saif Wael, an 18-year-old student from Egypt studying Business Informa
 
 ### ✍️ Today's Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-Quote
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-
 
 
 
