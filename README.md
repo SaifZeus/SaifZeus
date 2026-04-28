@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Saif Wael, an 18-year-old student from Egypt studying Business Information Systems. Passionate about technology, data analysis, and AI, and I enjoy exploring practical ways to combine programming with real-world business applications.
+Hi, I’m Saif Wael, an 19-year-old student from Egypt studying Business Information Systems. Passionate about technology, data analysis, and AI, and I enjoy exploring practical ways to combine programming with real-world business applications.
 
 
 ## 🌐 Socials:
