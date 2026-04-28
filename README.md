@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Saif Wael, an 18-year-old student from Egypt studying Business Information Systems. I’m passionate about technology, data analysis, and AI, and I enjoy exploring practical ways to combine programming with real-world business applications.
+Hi, I’m Saif Wael, an 18-year-old student from Egypt studying Business Information Systems. Passionate about technology, data analysis, and AI, and I enjoy exploring practical ways to combine programming with real-world business applications.
 
 
 ## 🌐 Socials:
@@ -12,7 +12,7 @@ Hi, I’m Saif Wael, an 18-year-old student from Egypt studying Business Informa
 ![](https://nirzak-streak-stats.vercel.app/?user=SaifZeus&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaifZeus&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Today's Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 
