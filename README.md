@@ -4,7 +4,7 @@
 
 <!-- Profile badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SaifZeus&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=SaifZeus&base=1168&style=flat-square" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/SaifZeus?style=social" alt="Followers" />
 </p>
 
