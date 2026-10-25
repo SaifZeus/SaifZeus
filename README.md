@@ -48,11 +48,11 @@
   <span style="color: #8B5CF6;">About Me</span>
 </h2>
 
-Hi! I'm **Saif Wael** — a **Data & AI Engineer** and Business Information Systems (BIS) student at Capital University (*Helwan University*) with a **3.97 / 4.00 GPA** (A+, Excellent).
+Hi! I'm **Saif Wael** — a **Data & AI Engineer** and Business Information Systems (BIS) student at Capital University (*Helwan University*)
 
 I specialize in building end-to-end data pipelines, predictive machine learning models, and interactive web solutions that solve business problems with data.
 
-- 🎓 **Education**: B.Sc. in Business Information Systems — GPA: **3.97/4.00**
+- 🎓 **Education**: B.Sc. in Business Information Systems
 - 🚀 **Initiatives & Training**: Microsoft Data Engineering Trainee at **DEPI** (*Digital Egypt Pioneers Initiative*)
 - 🏆 **Top Honor**: Ranked among the **Top 20 trainees** in the ITIDA & NTI Machine Learning Program with a **100% final score**
 - 👥 **Real-World Impact**: Built and deployed academic platforms serving **800+ university students**
