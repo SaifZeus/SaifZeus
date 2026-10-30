@@ -268,7 +268,7 @@ I specialize in building end-to-end data pipelines, predictive machine learning 
 </h2>
 
 <div align="center">
-  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=SaifZeus&theme=tokyonight&show_icons=true&hide_border=true&border_radius=15&include_all_commits=true" height="160" alt="stats graph"/>
+  <img src="https://raw.githubusercontent.com/SaifZeus/SaifZeus/output/stats.svg" height="160" alt="stats graph"/>
   <img src="https://raw.githubusercontent.com/SaifZeus/SaifZeus/output/top-langs.svg" height="160" alt="languages graph"/>
 </div>
 
