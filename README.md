@@ -156,7 +156,7 @@ I specialize in building end-to-end data pipelines, predictive machine learning 
 <h3>🤖 Data Analytics & Machine Learning</h3>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
@@ -231,7 +231,7 @@ I specialize in building end-to-end data pipelines, predictive machine learning 
       <br><b>Vercel</b>
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo-small.png" alt="Scikit-Learn" width="48" height="48" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="48" height="48" />
       <br><b>Scikit-Learn</b>
     </td>
     <td align="center" width="96">
@@ -268,8 +268,8 @@ I specialize in building end-to-end data pipelines, predictive machine learning 
 </h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaifZeus&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&border_radius=15&order=1" height="160" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SaifZeus&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&border_radius=15&order=2" height="160" alt="languages graph"/>
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=SaifZeus&theme=tokyonight&show_icons=true&hide_border=true&border_radius=15&include_all_commits=true" height="160" alt="stats graph"/>
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs?username=SaifZeus&theme=tokyonight&hide_border=true&border_radius=15&layout=compact&card_width=320&langs_count=6&hide=Jupyter%20Notebook" height="160" alt="languages graph"/>
 </div>
 
 <br/>
