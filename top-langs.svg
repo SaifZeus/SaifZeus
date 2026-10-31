@@ -1,0 +1,49 @@
+<svg width="350" height="160" viewBox="0 0 350 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .header { font: 600 16px 'Segoe UI', Ubuntu, Sans-Serif; fill: #70a5fd; }
+    .lang-text { font: 500 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #e2e8f0; }
+    .lang-pct { font: 400 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #94a3b8; }
+  </style>
+  <rect x="0.5" y="0.5" width="349" height="159" rx="15" fill="#1a1b27" stroke="#2a2b3d"/>
+  
+  <g transform="translate(25, 30)">
+    <text x="0" y="0" class="header">Most Used Languages</text>
+  </g>
+
+  <g transform="translate(25, 50)">
+    <mask id="bar-mask">
+      <rect x="0" y="0" width="300" height="8" rx="4" fill="white"/>
+    </mask>
+    <g mask="url(#bar-mask)">
+      <rect x="0" y="0" width="111.8" height="8" fill="#e34c26"/>
+      <rect x="111.8" y="0" width="108.4" height="8" fill="#f1e05a"/>
+      <rect x="220.2" y="0" width="49.2" height="8" fill="#663399"/>
+      <rect x="269.4" y="0" width="30.1" height="8" fill="#3572A5"/>
+      <rect x="299.5" y="0" width="0.5" height="8" fill="#336790"/>
+    </g>
+    
+    <g transform="translate(0, 5)">
+      
+      <g transform="translate(0, 25)">
+        <circle cx="5" cy="5" r="4.5" fill="#e34c26"/>
+        <text x="16" y="9" class="lang-text">HTML <tspan class="lang-pct">37.3%</tspan></text>
+      </g>
+      <g transform="translate(160, 25)">
+        <circle cx="5" cy="5" r="4.5" fill="#f1e05a"/>
+        <text x="16" y="9" class="lang-text">JavaScript <tspan class="lang-pct">36.1%</tspan></text>
+      </g>
+      <g transform="translate(0, 45)">
+        <circle cx="5" cy="5" r="4.5" fill="#663399"/>
+        <text x="16" y="9" class="lang-text">CSS <tspan class="lang-pct">16.4%</tspan></text>
+      </g>
+      <g transform="translate(160, 45)">
+        <circle cx="5" cy="5" r="4.5" fill="#3572A5"/>
+        <text x="16" y="9" class="lang-text">Python <tspan class="lang-pct">10.0%</tspan></text>
+      </g>
+      <g transform="translate(0, 65)">
+        <circle cx="5" cy="5" r="4.5" fill="#336790"/>
+        <text x="16" y="9" class="lang-text">PLpgSQL <tspan class="lang-pct">0.2%</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

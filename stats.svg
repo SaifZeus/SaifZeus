@@ -1,0 +1,41 @@
+<svg width="400" height="160" viewBox="0 0 400 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .header { font: 600 16px 'Segoe UI', Ubuntu, Sans-Serif; fill: #70a5fd; }
+    .stat-label { font: 600 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #94a3b8; }
+    .stat-value { font: 700 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #38bdae; }
+    .rank-circle { stroke: #70a5fd; stroke-width: 5; fill: none; }
+    .rank-text { font: 800 22px 'Segoe UI', Ubuntu, Sans-Serif; fill: #38bdae; }
+  </style>
+  <rect x="0.5" y="0.5" width="399" height="159" rx="15" fill="#1a1b27" stroke="#2a2b3d"/>
+
+  <g transform="translate(25, 30)">
+    <text x="0" y="0" class="header">Saif Wael's GitHub Stats</text>
+  </g>
+
+  <!-- Stats Rows -->
+  <g transform="translate(25, 52)">
+    <g transform="translate(0, 0)">
+      <text x="0" y="10" class="stat-label">Total Commits (All Repos):</text>
+      <text x="210" y="10" class="stat-value">268</text>
+    </g>
+    <g transform="translate(0, 24)">
+      <text x="0" y="10" class="stat-label">Total Stars Earned:</text>
+      <text x="210" y="10" class="stat-value">0</text>
+    </g>
+    <g transform="translate(0, 48)">
+      <text x="0" y="10" class="stat-label">Total PRs:</text>
+      <text x="210" y="10" class="stat-value">0</text>
+    </g>
+    <g transform="translate(0, 72)">
+      <text x="0" y="10" class="stat-label">Total Issues Opened:</text>
+      <text x="210" y="10" class="stat-value">0</text>
+    </g>
+  </g>
+
+  <!-- Rank Badge -->
+  <g transform="translate(325, 85)">
+    <circle cx="0" cy="0" r="32" class="rank-circle" stroke-opacity="0.2"/>
+    <circle cx="0" cy="0" r="32" class="rank-circle" stroke-dasharray="200" stroke-dashoffset="40"/>
+    <text x="0" y="8" text-anchor="middle" class="rank-text">A+</text>
+  </g>
+</svg>
